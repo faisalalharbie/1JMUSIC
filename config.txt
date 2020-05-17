@@ -1,4 +1,4 @@
-token=711654691351822366
+token=NzExNjU0NjkxMzUxODIyMzY2.XsGRaA.Vuj-wdgk7dmo1tj6oFuHPwp2GFo
 owner=256150087003144193
 prefix=n
 game=5play
